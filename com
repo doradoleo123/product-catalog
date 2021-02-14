@@ -1,0 +1,4 @@
+duck
+parrot
+dog
+bull
